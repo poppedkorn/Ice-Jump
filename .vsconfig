@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "components": [
+    "Microsoft.VisualStudio.Workload.ManagedGame",
+    "Microsoft.VisualStudio.Component.Unity",
+    "Microsoft.VisualStudio.Component.NetCoreTools",
+    "Microsoft.VisualStudio.Component.Roslyn.Compiler",
+    "Microsoft.VisualStudio.ComponentGroup.NativeDesktop.Core",
+    "Microsoft.VisualStudio.Component.VC.CoreIde",
+    "Microsoft.VisualStudio.Component.VC.Tools.x86.x64"
+  ]
+}
